@@ -125,28 +125,7 @@ For those of you looking for an additional challenge, evaluate the number of bac
 
 * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
-## Submission
 
-* To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive, and submit the link to <https://bootcampspot.com/>.
-
-## Rubric
-
-[Unit 1 Rubric - Excel Homework: Charting Crowdfunding](https://docs.google.com/document/d/1gIVky_5CZi-b4w07RLBYZyXgbbhMRemvpcT1V6EGkvw/edit?usp=sharing)
-
-## Employer-Ready Criteria
-
-Students who are marked as employer ready gain access to our employer referral program, additional workshops, and other resources. Work with your Career Director to become employer ready. At a minimum, you must have:
-
-- A clear, concise, and compelling resume. Submit via your learning platform for review.
-- A polished GitHub profile:
-  - 3 to 6 pinned repositories ([instructions here](https://docs.github.com/en/enterprise/2.13/user/articles/pinning-items-to-your-profile))
-  - Professional titles, i.e. not "Homework #1"
-  - Thorough README.md files for each repository
-  - Clean code
-
-## References
-
-Dataset created by Trilogy Education Services, LLC.
 
 - - -
 
